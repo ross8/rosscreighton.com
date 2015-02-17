@@ -1,0 +1,76 @@
+.navbar{
+    background: #fa5f00;
+    background-color: rgba(250,95,0,0.8);
+}
+
+#resume-body{
+    margin-top: 50px;
+    font-size: 17px;
+    font-weight: 200;
+}
+
+#resume-body a{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.sub-heading{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.bar-text{
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+#resume-pic{
+    width: 70%;
+    height: 70%;
+    opacity: 0.9;
+    margin-top: 50px;
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+}
+
+#resume-pic:hover{
+    opacity: 1;
+}
+
+#resume-dl-small{
+    display: none;
+}
+
+#resume-dl-small a{
+    text-decoration: underline;
+    color: #fff;
+}
+
+#footer{
+    background-color: rgba(0,0,0,0.3);
+}
+
+#tagline{
+    visibility: hidden;
+}
+
+@media screen and (min-width: 768px){
+    #resume{
+        border-top: 2px solid #fff;
+    }
+    #menu a:hover{
+        border-top: 2px solid #fff;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .navbar-collapse{
+        background-color: rgba(250,95,0,0.8);
+    }
+    #resume-dl-small{
+        display: block;
+    }
+}

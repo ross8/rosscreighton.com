@@ -1,0 +1,12 @@
+.navbar{
+    background: #ffc000;
+    background-color: rgba(255,192,0,0.8);
+}
+
+.contact-header{
+    font-size: 30px;
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    padding-top: 50px;
+    padding-left: 10px;
+}

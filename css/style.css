@@ -1,0 +1,171 @@
+body{
+    background: #fff;
+    background: url(http://www.rosscreighton.com/img/stripes.png);
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+#background{
+    position: absolute;
+    background: #2d2d2d;
+    background: rgb(45,45,45);
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    top: 50px;
+    padding-bottom: 35px;
+    color: #fff;
+}
+
+.valign-outer{
+    display: table;
+}
+
+.container-full{
+    padding: 0px 0px;
+}
+
+#menu{
+    font-weight: 100;
+    font-size: 30px;
+    text-align: left;
+    color: #fff;
+    background: none;
+}
+
+#menu li{
+    margin-right: 1px;
+}
+
+#menu li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-nav.nav-justified > li{
+    float:none;
+}
+
+.navbar{
+    border-bottom: 1px solid #000;
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+    max-height: 50px;
+}
+
+.navbar-toggle{
+    color: #fff;
+}
+
+#menu-button{
+    height: 35px;
+}
+
+.valign-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.sub-heading{
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+.sub-heading-2{
+    font-size: 22px;
+    font-weight: 100;
+    margin-bottom: 5px;
+}
+
+.spacer{
+    height: 75px;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background: #222222;
+    background: rgb(34,34,34);
+    background-color: rgba(0,0,0,0.3);
+    width: 100%;
+    color: #fff;
+    font-size: 25px;
+    font-weight: 100;
+    letter-spacing: 5px;
+    z-index: 10;
+}
+
+#tagline{
+    opacity: 0.75;
+    padding-left: 15px;
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -o-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+}
+
+@media screen and (max-width: 992px) {
+    
+    #menu{
+        font-size: 27px;
+    }
+    .container{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .small-hide{
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    
+    .container{
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    body{
+        overflow: scroll;
+    }
+    .navbar{
+        max-height: 52px;
+    }
+    #footer{
+        font-size: 20px;
+    }
+    #background{
+        top: 52px;
+        padding-bottom: 28px;
+    }
+    .smaller-hide{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    #footer{
+        font-size: 15px;
+    }
+    #background{
+        top: 52px;
+        padding-bottom: 21px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    
+    #footer{
+        display: none;
+    }
+    #background{
+        padding-bottom: 0px;
+    }
+}
+
+
+
