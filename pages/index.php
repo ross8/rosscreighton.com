@@ -2,7 +2,7 @@
     <div id="welcome">
         Ross Creighton
         <div id="description">
-            Problem Solver | Web Developer
+            Front End Web Developer
         </div>
         <div class="message">
             Welcome! I built this website to showcase my ability as a front-end web developer, my achievements as an academic, and my diverse set of passions and goals. Please, take a look around.
