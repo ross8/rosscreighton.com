@@ -29,7 +29,7 @@
     <div class="container">
         <div class="spacer"></div>
         <div id="about-header">
-            I code. I sing. I give. I play. I write. I build. I compete. I love. I create. I learn. I dream. I solve problems. I don't give up. 
+            I code. I sing. I give. I play. I write. I build. I compete. I love. I create. I learn. I dream. 
         </div>
         <div id="about-text">
             <div class="row">
@@ -38,9 +38,9 @@
                 </div>
             </div>
             <div class="row">
-                <div class="sol-sm-20 col-md-20 about-section">
+                <div class="col-sm-20 col-md-20 about-section">
                     <div class="sub-heading">Music</div>
-                    <p>I've been playing guitar and piano since my early teens and have been writing and performing songs for most of that time. Music is one of my biggest passions; it has given me confidence and has allowed my creative side to thrive. In recent years, I've been fortunate to be able to perform semi-professionally and work on recording some of my music.</p>
+                    <p>I've been playing guitar and piano since my early teens and have been writing and performing songs for most of that time. Music is one of my biggest passions; it has given me confidence and has allowed my creative side to thrive. Recently, I've been fortunate to be able to perform my music for others and work on recording a couple songs.</p>
                 </div>
                 <div class="col-sm-20 col-md-20 about-section">
                     <div class="sub-heading">Basketball</div>
@@ -48,13 +48,13 @@
                 </div>
                 <div class="col-sm-20 col-md-20 about-section">
                     <div class="sub-heading">Service</div>
-                    <p>I had always enjoyed math and physics, so after high school I enrolled at Clemson University to pursue a degree in engineering. I had a lot of fun at Clemson and made some amazing friends. I also discovered another passion: service. I worked on a volunteer basis with a group called Clemson Engineers for Developing Countries that works to improve quality of life in Haiti. I wore many hats within the organization, but spent most of my time as the Director of Technology Solutions. Giving my time to CEDC has kept me humble and grateful, and exposed me to places, people, and ideas that have made me a much more open-minded and well-rounded person. I have remained very much involved with CEDC after graduation.</p>
+                    <p>I had always enjoyed math and physics, so after high school I enrolled at Clemson University to pursue a degree in engineering. I had a lot of fun at Clemson and made some amazing friends. I also discovered another passion: service. I worked on a volunteer basis with a group called Clemson Engineers for Developing Countries that works to improve quality of life in Haiti. I wore many hats within the organization, but spent most of my time as the Director of Technology Solutions. Giving my time to CEDC has kept me humble and grateful, and exposed me to places, people, and ideas that have made me a much more open-minded and well-rounded person.</p>
                 </div>
             </div>
             <div class="row">
                 <div class="col-sm-20 col-md-20 about-section">
                     <div class="sub-heading">Web Development</div>
-                    <p>Also during my time at Clemson, I took on my most fulfilling endeavor to date: building websites. It started a few years ago when I needed a website for a business I was starting. It soon became a hobby, and later an obsession. Coding beautiful and functional websites is an exciting challenge for me; it satisfies me both analytically and creatively. I have spent most of my free time in the last two years learning everything I can about web development. My ultimate goal professionally is to become a full-stack developer and work on a project that changes the world.</p>
+                    <p>Also during my time at Clemson, I took on my most fulfilling endeavor to date: web development. It started a few years ago when I needed a website for a business my friends and I were starting. It soon became a hobby, and later an obsession. Coding beautiful and functional websites is an exciting challenge for me; it satisfies me both analytically and creatively. I have spent most of my free time over the last few years learning everything I can about web development. My ultimate goal professionally is to become a full-stack developer and work on a project that changes the world.</p>
                 </div>
                 <div class="col-sm-20 col-md-20 about-section">
                     <div class="sub-heading">My Motto</div>
