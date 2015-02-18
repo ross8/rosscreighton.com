@@ -11,7 +11,6 @@
                 <li><a id="portfolio" href="page.php?page=portfolio">Portfolio</a></li>
                 <li><a id="resume" href="page.php?page=resume">R&#233;sum&#233;</a></li>
                 <li><a id="contact" href="page.php?page=contact">Contact</a></li>
-                <li><a id="blog" href="page.php?page=blog">Blog</a></li>
             </ul>
     </div>
 </nav>
