@@ -2,6 +2,58 @@
     <div class='container'>
         <div class='row row-tiles'>
             <div class='col-xs-10 col-sm-5 col-md-5'>
+                <a id="pong" data-toggle="modal" href="#view-pong">
+                    <div class="tile">
+                        <img class='img-responsive' src='./img/pong.png'>
+                        <div class="tile-text">
+                            Pong Emulator
+                            <div class="tile-description small-hide">
+                                Pong clone built with vanilla javascript.  
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class='col-xs-10 col-sm-5 col-md-5'>
+                <a id="fox" data-toggle="modal" href="#view-fox">
+                    <div class="tile">
+                        <img class='img-responsive' src='./img/fox.png'>
+                        <div class="tile-text">
+                            Speckled Fox
+                            <div class="tile-description small-hide">
+                                Volusion Store customization for new children's clothing business.  
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class='col-xs-10 col-sm-5 col-md-5'>
+                <a id="engage-things" data-toggle="modal" href="#view-engage-things">
+                    <div class="tile">
+                        <img class='img-responsive' src='./img/engage-things.png'>
+                        <div class="tile-text">
+                            Engage
+                            <div class="tile-description small-hide">
+                                Website for startup idea based on wearable tech. 
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class='col-xs-10 col-sm-5 col-md-5'>
+                <a id="insight" data-toggle="modal" href="#view-insight">
+                    <div class="tile">
+                        <img class='img-responsive' src='./img/insight.png'>
+                        <div class="tile-text">
+                            Insight Artists
+                            <div class="tile-description small-hide">
+                                Website for new talent management company. 
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class='col-xs-10 col-sm-5 col-md-5'>
                 <a id="link-susquiz" data-toggle="modal" href="#view-susquiz">
                     <div class="tile">
                         <img class='img-responsive' src='./img/susquiz.png'>
@@ -21,7 +73,7 @@
                         <div class="tile-text">
                             Succinct
                             <div class="tile-description small-hide">
-                                Worldwide aggregated news reader concept. In conceptual phase - only UI is complete.
+                                Idea for aggregated news reader. No functionality, just built out responsive UI concept.
                             </div>
                         </div>
                     </div>
@@ -34,7 +86,7 @@
                         <div class="tile-text">
                             Capstone Filter Services
                             <div class="tile-description small-hide">
-                                Website for local business. Web design & SEO.
+                                Website for local business.
                             </div>
                         </div>
                     </div>
@@ -60,7 +112,7 @@
                         <div class="tile-text">
                             Portfolio: Patrick Harrington
                             <div class="tile-description small-hide">
-                                Website for recent college graduate.
+                                Portfolio site for recent college graduate.
                             </div>
                         </div>
                     </div>
@@ -79,6 +131,58 @@
                     </div>
                 </a>
             </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="view-pong" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button class="close-btn" type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <img class='img-responsive' src='./img/pong.png'>
+            </div>
+            <div class="modal-site-desc">
+               Pong clone built with vanilla javascript. Fully responsive. <a href="http://www.rosscreighton.com/pong">View full site</a>
+            </div> 
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="view-fox" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button class="close-btn" type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <iframe class="modal-site-view" src="http://www.speckledfoxstore.com"></iframe>
+            </div>
+            <div class="modal-site-desc">
+               Volusion Store customization for new children's clothing business.<a href="http://www.speckledfoxstore.com">View full site</a>
+            </div> 
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="view-engage-things" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button class="close-btn" type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <iframe class="modal-site-view" src="http://www.engagethings.com/info"></iframe>
+            </div>
+            <div class="modal-site-desc">
+               Website for startup idea based on wearable tech. Used the site to apply to startup accelorators. Fully responsive. <a href="http://www.engagethings.com/info">View full site</a>
+            </div> 
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="view-insight" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button class="close-btn" type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <iframe class="modal-site-view" src="http://www.insightartists.com"></iframe>
+            </div>
+            <div class="modal-site-desc">
+               Website for new talent management company. Fully responsive. <a href="http://www.insightartists.com">View full site</a>
+            </div> 
         </div>
     </div>
 </div>
